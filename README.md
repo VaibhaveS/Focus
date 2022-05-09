@@ -6,7 +6,7 @@
 
 #### Overview
 
-We provide an *online interview analyser* which can extract information related to online interviews from the *video and audio recording*. The system is designed to  analyse the emotions of the interviewees using image processing and deep learning techniques and use this result along with analysis done on the audio of the meeting NLP and Machine learning techniques to determine if the attendees are involved in the meeting or not. Our system provides a detailed analysis of the meeting. Companies can use the results from the system to judge the candidate.
+We provide an **online interview analyser** which can extract information related to online interviews from the **video and audio recording**. The system is designed to  analyse the emotions of the interviewees using image processing and deep learning techniques and use this result along with analysis done on the audio of the meeting NLP and Machine learning techniques to determine if the attendees are involved in the meeting or not. Our system provides a detailed analysis of the meeting. Companies can use the results from the system to judge the candidate.
 
  
 <a name="installation" />
@@ -15,21 +15,21 @@ We provide an *online interview analyser* which can extract information related 
 
 1. Clone this repository
 
-sh
+```sh
 $ git clone https://github.com/VaibhaveS/Focus.git
-
+```
 
 2. Change directory to that folder
 
-sh
+```sh
 $ cd Focus
-
+```
   
 3. Run the jupyter notebooks 
   
-sh
+```sh
 $ open them manually or use py -m Audio.ipynb and Process.ipynb
-
+```
 <a name="features">
 
 #### Features
