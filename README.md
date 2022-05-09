@@ -30,6 +30,15 @@ $ cd Focus
 ```sh
 $ open them manually or use py -m Audio.ipynb and Process.ipynb
 ```
+ 
+4. Enable Google cloud Speech-to-Text API 
+ 
+ ```sh 
+ https://console.cloud.google.com/
+ ```
+
+5. Open Homepage.html in the browser
+ 
 <a name="features">
 
 #### Features
