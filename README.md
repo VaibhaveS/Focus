@@ -5,9 +5,10 @@
 
 We provide an **online interview analyser** which can extract information related to online interviews from the **video and audio recording**. The system is designed to  analyse the emotions of the interviewees using image processing and deep learning techniques along with analysis on the audio of the interview using NLP and Machine learning techniques. Our system provides a detailed analysis of the interview. Companies can use the results from the system to judge the candidate.
  
-### Video: https://user-images.githubusercontent.com/71920164/167668306-678489f4-11c5-4ee3-8a24-1f64fb798731.mp4
+#### Demo Link 
+https://user-images.githubusercontent.com/71920164/167668306-678489f4-11c5-4ee3-8a24-1f64fb798731.mp4
 
-<a name="installation" />
+<a name="installation">
  
 #### Installation
 
