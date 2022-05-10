@@ -1,7 +1,4 @@
 # Online meeting analyser for interviews using image processing and NLP
-
-7. ReadMe file, which clearly guides you to run the code. Installation, Configuration instructions, Software (Name & Version) and Hardware Requirements, Any special instructions like path setting etc.
-
 <a name="overview">
 
 #### Overview
