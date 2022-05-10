@@ -43,10 +43,13 @@ $ open them manually or use py -m Audio.ipynb and Process.ipynb
 
 #### Features
 
-- [x] Percentage of interesting questions
 - [x] Average response time of the interviewee
-  
-  
+- [x] Bar chart signifying the count of each emotion
+- [x] Number of active speakers (in a normal interview setting it should be two, but may vary)
+- [x] Number of questions asked
+- [x] Percentage of non-trivial questions
+- [x] Percentage of interesting questions
+ 
 <p align="center">
   <img src="https://github.com/VaibhaveS/Focus/blob/main/LOGO5.gif" style="margin:auto">
 </p>
