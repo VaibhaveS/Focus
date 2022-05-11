@@ -43,11 +43,29 @@ $ open them manually or use py -m Audio.ipynb and Process.ipynb
 #### Features
 
 - [x] Average response time of the interviewee
+ <h5> The delta seconds for each question answer pair is calculated and added to a global sum to calculate the overall average response time of the interviewee.
+ This allows the interviewer to gauge the interviewee in terms of how quick he is to think and answer questions i.e, decision making. </h5>
+ 
 - [x] Bar chart signifying the count of each emotion
+ 
+  <h5> A bar chart showing the average frequency of each emotion shown to get an overall idea of what emotion was displayed in response to the stimuli given, for example, a difficult question.  </h5>
+ 
 - [x] Number of active speakers (in a normal interview setting it should be two, but may vary)
+ 
+  <h5> Number of active speakers based on audio component of the meeting is found and displayed. </h5>
+ 
 - [x] Number of questions asked
+ 
+  <h5> From the numerous sentences from the audio transcript, questions that were asked are recognised and the count is returned. </h5>
+ 
 - [x] Percentage of non-trivial questions
+ 
+  <h5> From the questions asked, the number of non-interesting questions are found using TF/IDF and an existing dataset of both interesting and non-interesting questions. </h5>
+
+ 
 - [x] Percentage of interesting questions
+ 
+  <h5> From the questions asked, the number of interesting questions are found using TF/IDF and an existing dataset of both interesting and non-interesting questions. </h5>
  
 <p align="center">
   <img src="https://github.com/VaibhaveS/Focus/blob/main/LOGO5.gif" style="margin:auto">
